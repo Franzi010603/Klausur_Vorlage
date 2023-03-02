@@ -1,0 +1,4 @@
+C:/Users/maxim/CLionProjects/Klausur/task_1/cmake-build-debug/CMakeFiles/task_1.dir
+C:/Users/maxim/CLionProjects/Klausur/task_1/cmake-build-debug/CMakeFiles/task_1_tests.dir
+C:/Users/maxim/CLionProjects/Klausur/task_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxim/CLionProjects/Klausur/task_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
